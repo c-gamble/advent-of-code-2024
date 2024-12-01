@@ -7,7 +7,7 @@ Solutions for Advent of Code 2024 in Python, Rust, and C++.
 1. Create a `.env` file in the root directory with:
 
 ```
-SESSION_COOKIE=your_aoc_session_cookie
+AOC_COOKIE=your_aoc_session_cookie
 BASE_PATH=/path/to/your/project
 ```
 
